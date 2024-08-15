@@ -3,7 +3,7 @@
 contains the defination of redis
 """
 import redis
-from typing import Union, Callable, Optional
+from typing import Union
 import uuid
 
 
